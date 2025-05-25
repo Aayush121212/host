@@ -1,0 +1,29 @@
+div, pre {
+  text-align: center;
+}
+
+p,pre,label{
+  text-transform:capitalize;
+}
+html{
+  background-image: url("tirza-van-dijk-cNGUw-CEsp0-unsplash.jpg");
+  background-size: cover;
+  color:black;
+  background-position: center;
+}
+pre{
+  font-size:20px;
+  font-weight: bold;
+  background-color:rgba(255,0,0,0.5);
+  display:inline-block;
+  align-self: center;
+}
+div{
+  text-shadow: 3px;
+  background-color: rgba(0,0,0,0.5);
+  color:white;
+  align-content: center;
+}
+pre{
+  margin-left: 40%;
+}

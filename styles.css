@@ -1,0 +1,51 @@
+#yes{
+background-color:#E5989B;
+border:2px,solid,black;
+padding: 10px;
+margin-left:45%;
+border-radius: 50%;
+height:50px;
+}
+#no{
+    background-color:#FFCDB2;
+border:2px,solid,black;
+padding:15px;
+border-radius: 50%;
+height: 50px;
+margin-right:40%;
+}
+a{
+    text-size-adjust: 20px;
+    text-decoration:underline;
+    color:whitesmoke
+}
+header{
+    display:flex;
+    justify-content:space-evenly;
+    margin-bottom:150px;
+}
+
+html{
+    background-image: url("mayur-gala-2PODhmrvLik-unsplash (1).jpg");
+    background-size:cover;
+    background-position: center;
+}
+#question{
+    font-size:50px;
+    color:white;
+    text-align: center;
+    padding-bottom:300px;
+    font-style: italic;
+
+}
+p{
+    padding:none;
+    color:white;
+}
+
+.new:hover{
+    transform:translate(100px,100px);
+    transition: transform 2s ease-in-out;
+
+}
+
